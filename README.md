@@ -1,1 +1,2 @@
 do not use for any purpose.  temporary holding file for testing
+All Rights Reserved No parts of this repository may be reproduced, distributed or transmited in any form by any means including photocopying, recording or other electronic or mechanical methods without the prior written consent of the publishers except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permited by copyright laws.
